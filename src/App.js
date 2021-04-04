@@ -1,6 +1,6 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
-import {Trivia} from '../src/shared/views/Trivia.jsx'
+import {Trivia} from './shared/views/Trivia.jsx'
 
 function App() {
   return (

@@ -18,7 +18,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: black;
@@ -47,3 +47,12 @@
     transform: rotate(360deg);
   }
 }
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.answers:active {
+  background-color: blueviolet;
+}
+
